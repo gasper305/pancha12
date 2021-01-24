@@ -1,14 +1,519 @@
-# pancha12#EXTINF:-1,CO: FOX CLASSICS
-http://extremo.dyndns.ws:25461/live/lety/lety/6151.ts
-#EXTINF:-1,CO: FOX COMEDY
-http://extremo.dyndns.ws:25461/live/lety/lety/6150.ts
-#EXTINF:-1,CO: FOX LIFE
-http://extremo.dyndns.ws:25461/live/lety/lety/6149.ts
-#EXTINF:-1,CO: FOX PREMIUN ACTION
-http://extremo.dyndns.ws:25461/live/lety/lety/6148.ts
-#EXTINF:-1,CO: FOX PREMIUN FAMILY
-http://extremo.dyndns.ws:25461/live/lety/lety/6147.ts
-#EXTINF:-1,CO: FOX PREMIUN MOVIES
-http://extremo.dyndns.ws:25461/live/lety/lety/6146.ts
-#EXTINF:-1,CO: FOX SERIES
-http://extremo.dyndns.ws:25461/live/lety/lety/6145.ts
+#EXTM3U
+#EXTINF:-1,TELEFE
+http://extremo.dyndns.ws:25461/live/lety/lety/654.ts
+#EXTINF:-1,CANAL 13 HD
+http://extremo.dyndns.ws:25461/live/lety/lety/668.ts
+#EXTINF:-1,CANAL 13 OP2
+http://extremo.dyndns.ws:25461/live/lety/lety/667.ts
+#EXTINF:-1,CHILEVISION HD
+http://extremo.dyndns.ws:25461/live/lety/lety/666.ts
+#EXTINF:-1,CHILEVISION OP2
+http://extremo.dyndns.ws:25461/live/lety/lety/665.ts
+#EXTINF:-1,MEGA
+http://extremo.dyndns.ws:25461/live/lety/lety/664.ts
+#EXTINF:-1,TV CHILE INTER
+http://extremo.dyndns.ws:25461/live/lety/lety/660.ts
+#EXTINF:-1,TVN HD
+http://extremo.dyndns.ws:25461/live/lety/lety/663.ts
+#EXTINF:-1,LA RED
+http://extremo.dyndns.ws:25461/live/lety/lety/662.ts
+#EXTINF:-1,WINSPORT
+http://extremo.dyndns.ws:25461/live/lety/lety/1329.ts
+#EXTINF:-1,CARACOL
+http://extremo.dyndns.ws:25461/live/lety/lety/1328.ts
+#EXTINF:-1,COLOM: RCN
+http://extremo.dyndns.ws:25461/live/lety/lety/1327.ts
+#EXTINF:-1,TELEMUNDO 47
+http://extremo.dyndns.ws:25461/live/lety/lety/1445.ts
+#EXTINF:-1,UNIVISION 41
+http://extremo.dyndns.ws:25461/live/lety/lety/1446.ts
+#EXTINF:-1,GOLPERU
+http://extremo.dyndns.ws:25461/live/lety/lety/1518.ts
+#EXTINF:-1,LATINA
+http://extremo.dyndns.ws:25461/live/lety/lety/1519.ts
+#EXTINF:-1,PANAMERICANA.
+http://extremo.dyndns.ws:25461/live/lety/lety/1520.ts
+#EXTINF:-1,RD- DIGITAL15
+http://extremo.dyndns.ws:25461/live/lety/lety/1534.ts
+#EXTINF:-1,TELE ANTILLAS
+http://extremo.dyndns.ws:25461/live/lety/lety/1533.ts
+#EXTINF:-1,RD- telemicro
+http://extremo.dyndns.ws:25461/live/lety/lety/1527.ts
+#EXTINF:-1,HON Azteca Honduras
+http://extremo.dyndns.ws:25461/live/lety/lety/1566.ts
+#EXTINF:-1,HON CANAL 10
+http://extremo.dyndns.ws:25461/live/lety/lety/1561.ts
+#EXTINF:-1,HON CANAL 11
+http://extremo.dyndns.ws:25461/live/lety/lety/1560.ts
+#EXTINF:-1,HON CANAL 5
+http://extremo.dyndns.ws:25461/live/lety/lety/1563.ts
+#EXTINF:-1,HON CANAL 6
+http://extremo.dyndns.ws:25461/live/lety/lety/1562.ts
+#EXTINF:-1,HON HCH
+http://extremo.dyndns.ws:25461/live/lety/lety/1565.ts
+#EXTINF:-1,HON TELECEIBA
+http://extremo.dyndns.ws:25461/live/lety/lety/1559.ts
+#EXTINF:-1,HON TELESISTEMA
+http://extremo.dyndns.ws:25461/live/lety/lety/1558.ts
+#EXTINF:-1,HON TNH
+http://extremo.dyndns.ws:25461/live/lety/lety/1564.ts
+#EXTINF:-1,HON TODO DEPORTES
+http://extremo.dyndns.ws:25461/live/lety/lety/1557.ts
+#EXTINF:-1,UNIVISION DEPORTES  OP2
+http://extremo.dyndns.ws:25461/live/lety/lety/1888.ts
+#EXTINF:-1,CANAL 5 HD
+http://extremo.dyndns.ws:25461/live/lety/lety/1889.ts
+#EXTINF:-1,AZTECA 7  HD
+http://extremo.dyndns.ws:25461/live/lety/lety/1890.ts
+#EXTINF:-1,UNICABLE HD
+http://extremo.dyndns.ws:25461/live/lety/lety/1892.ts
+#EXTINF:-1,AZTECA 13 HD
+http://extremo.dyndns.ws:25461/live/lety/lety/1891.ts
+#EXTINF:-1,DISTRITO COMEDIA HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2166.ts
+#EXTINF:-1,FOX SPORT ( LATI) HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2172.ts
+#EXTINF:-1,FOX SPORTS 2 ( LATI )
+http://extremo.dyndns.ws:25461/live/lety/lety/2173.ts
+#EXTINF:-1,HISTORY HD  LT
+http://extremo.dyndns.ws:25461/live/lety/lety/2178.ts
+#EXTINF:-1,ATV
+http://extremo.dyndns.ws:25461/live/lety/lety/2180.ts
+#EXTINF:-1,UNIVISION HD PR
+http://extremo.dyndns.ws:25461/live/lety/lety/2188.ts
+#EXTINF:-1,WAPA2 HD PR
+http://extremo.dyndns.ws:25461/live/lety/lety/2187.ts
+#EXTINF:-1,PUNTO 2
+http://extremo.dyndns.ws:25461/live/lety/lety/2183.ts
+#EXTINF:-1,TELEMUNDO HD PR
+http://extremo.dyndns.ws:25461/live/lety/lety/2185.ts
+#EXTINF:-1,TELEMUNDO SD PR
+http://extremo.dyndns.ws:25461/live/lety/lety/2184.ts
+#EXTINF:-1,WAPA SD PR
+http://extremo.dyndns.ws:25461/live/lety/lety/2182.ts
+#EXTINF:-1,WAPA2 SD PR
+http://extremo.dyndns.ws:25461/live/lety/lety/2181.ts
+#EXTINF:-1,UNIVISION SD PR
+http://extremo.dyndns.ws:25461/live/lety/lety/2189.ts
+#EXTINF:-1,Discovey_Turbo HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2192.ts
+#EXTINF:-1,UFC HD*
+http://extremo.dyndns.ws:25461/live/lety/lety/2190.ts
+#EXTINF:-1,VTV HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2194.ts
+#EXTINF:-1,CDF FULL HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2198.ts
+#EXTINF:-1,CDF N
+http://extremo.dyndns.ws:25461/live/lety/lety/669.ts
+#EXTINF:-1,CDF P
+http://extremo.dyndns.ws:25461/live/lety/lety/2197.ts
+#EXTINF:-1,CANAL 12  TIJUANA
+http://extremo.dyndns.ws:25461/live/lety/lety/2203.ts
+#EXTINF:-1,WWE NETWORK
+http://extremo.dyndns.ws:25461/live/lety/lety/2373.ts
+#EXTINF:-1,A&E HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2367.ts
+#EXTINF:-1,ABC NEWS HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2366.ts
+#EXTINF:-1,boxnation
+http://extremo.dyndns.ws:25461/live/lety/lety/2365.ts
+#EXTINF:-1,Bein Sports HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2364.ts
+#EXTINF:-1,BET HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2363.ts
+#EXTINF:-1,USA2 | Boomerang HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2362.ts
+#EXTINF:-1,Bravo us
+http://extremo.dyndns.ws:25461/live/lety/lety/2361.ts
+#EXTINF:-1,CBSN HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2360.ts
+#EXTINF:-1,CARTOON NETWORK HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2359.ts
+#EXTINF:-1,CNN
+http://extremo.dyndns.ws:25461/live/lety/lety/2358.ts
+#EXTINF:-1,Discovery Science
+http://extremo.dyndns.ws:25461/live/lety/lety/2357.ts
+#EXTINF:-1,E! HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2356.ts
+#EXTINF:-1,FS1 HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2353.ts
+#EXTINF:-1,FS 2 HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2352.ts
+#EXTINF:-1,Hallmark HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2351.ts
+#EXTINF:-1,INVESTIGATION  ID HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2350.ts
+#EXTINF:-1,TNT HD*
+http://extremo.dyndns.ws:25461/live/lety/lety/2344.ts
+#EXTINF:-1,AMC HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2341.ts
+#EXTINF:-1,ANIMAL PLANET HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2340.ts
+#EXTINF:-1,BRAVO HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2339.ts
+#EXTINF:-1,CNBC HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2338.ts
+#EXTINF:-1,Discovery HD US
+http://extremo.dyndns.ws:25461/live/lety/lety/2337.ts
+#EXTINF:-1,HISTORY HD*
+http://extremo.dyndns.ws:25461/live/lety/lety/2336.ts
+#EXTINF:-1,NAT GEO WILD
+http://extremo.dyndns.ws:25461/live/lety/lety/2335.ts
+#EXTINF:-1,PARAMOUN / SPIKE HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2332.ts
+#EXTINF:-1,STARZ COMEDY HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2331.ts
+#EXTINF:-1,USA NETWORK HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2329.ts
+#EXTINF:-1,A&E HD LT
+http://extremo.dyndns.ws:25461/live/lety/lety/2319.ts
+#EXTINF:-1,ABC NY -HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2326.ts
+#EXTINF:-1,CBS HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2325.ts
+#EXTINF:-1,FOX5 HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2324.ts
+#EXTINF:-1,NBC NY HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2323.ts
+#EXTINF:-1,PIX ll HD NY
+http://extremo.dyndns.ws:25461/live/lety/lety/2321.ts
+#EXTINF:-1,OUTDOOR
+http://extremo.dyndns.ws:25461/live/lety/lety/2436.ts
+#EXTINF:-1,DISCOVERY ID  HD LT
+http://extremo.dyndns.ws:25461/live/lety/lety/2306.ts
+#EXTINF:-1,COOKING CHANNEL
+http://extremo.dyndns.ws:25461/live/lety/lety/2302.ts
+#EXTINF:-1,ECU: ECUAVISA INTER
+http://extremo.dyndns.ws:25461/live/lety/lety/2454.ts
+#EXTINF:-1,CR- CANAL 11
+http://extremo.dyndns.ws:25461/live/lety/lety/1570.ts
+#EXTINF:-1,CR- CANAL 13
+http://extremo.dyndns.ws:25461/live/lety/lety/1569.ts
+#EXTINF:-1,CR- CANAL 4
+http://extremo.dyndns.ws:25461/live/lety/lety/1574.ts
+#EXTINF:-1,CR- CANAL 6
+http://extremo.dyndns.ws:25461/live/lety/lety/1573.ts
+#EXTINF:-1,CR- CANAL 7
+http://extremo.dyndns.ws:25461/live/lety/lety/1572.ts
+#EXTINF:-1,CR- CANAL 9
+http://extremo.dyndns.ws:25461/live/lety/lety/1571.ts
+#EXTINF:-1,HD TVC DEPORTES
+http://extremo.dyndns.ws:25461/live/lety/lety/2313.ts
+#EXTINF:-1,TLC HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2314.ts
+#EXTINF:-1,DISCOVER HD*
+http://extremo.dyndns.ws:25461/live/lety/lety/2522.ts
+#EXTINF:-1,WARNER
+http://extremo.dyndns.ws:25461/live/lety/lety/2555.ts
+#EXTINF:-1,TELEHIT HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2552.ts
+#EXTINF:-1,TENNIS CHANNEL HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2526.ts
+#EXTINF:-1,BANDAMAX
+http://extremo.dyndns.ws:25461/live/lety/lety/2524.ts
+#EXTINF:-1,MSG HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2556.ts
+#EXTINF:-1,MSG 2 HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2558.ts
+#EXTINF:-1,MSG PLUS HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2557.ts
+#EXTINF:-1,MSG2 PLUS HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2559.ts
+#EXTINF:-1,DIY NETWORK HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2560.ts
+#EXTINF:-1,NBA Live 1
+http://extremo.dyndns.ws:25461/live/lety/lety/2565.ts
+#EXTINF:-1,NBA Live 2
+http://extremo.dyndns.ws:25461/live/lety/lety/2566.ts
+#EXTINF:-1,NBA Live 3
+http://extremo.dyndns.ws:25461/live/lety/lety/2567.ts
+#EXTINF:-1,NBA Live 4
+http://extremo.dyndns.ws:25461/live/lety/lety/2568.ts
+#EXTINF:-1,NBA Live 5
+http://extremo.dyndns.ws:25461/live/lety/lety/2569.ts
+#EXTINF:-1,NBA Live 6
+http://extremo.dyndns.ws:25461/live/lety/lety/2570.ts
+#EXTINF:-1,NBA Live 7
+http://extremo.dyndns.ws:25461/live/lety/lety/2571.ts
+#EXTINF:-1,NBA Live 8
+http://extremo.dyndns.ws:25461/live/lety/lety/2572.ts
+#EXTINF:-1,PERU: CAPITAL TV
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8
+#EXTINF:-1,ESPN 2 ( ENG ) HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2578.ts
+#EXTINF:-1,FOX SPORT3 ( LATI ) HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2579.ts
+#EXTINF:-1,HBO FAMILY LT
+http://extremo.dyndns.ws:25461/live/lety/lety/2576.ts
+#EXTINF:-1,HBO LT
+http://extremo.dyndns.ws:25461/live/lety/lety/2574.ts
+#EXTINF:-1,HBO2 LT
+http://extremo.dyndns.ws:25461/live/lety/lety/2575.ts
+#EXTINF:-1,MEGA TV HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2584.ts
+#EXTINF:-1,NEX TV
+http://extremo.dyndns.ws:25461/live/lety/lety/1541.ts
+#EXTINF:-1,RPC
+http://extremo.dyndns.ws:25461/live/lety/lety/1540.ts
+#EXTINF:-1,TV MAX
+http://extremo.dyndns.ws:25461/live/lety/lety/1538.ts
+#EXTINF:-1,TVN.
+http://extremo.dyndns.ws:25461/live/lety/lety/1544.ts
+#EXTINF:-1,TELEMETRO
+http://extremo.dyndns.ws:25461/live/lety/lety/1545.ts
+#EXTINF:-1,G PLUS
+http://extremo.dyndns.ws:25461/live/lety/lety/2594.ts
+#EXTINF:-1,HD TRU TV  US
+http://extremo.dyndns.ws:25461/live/lety/lety/2593.ts
+#EXTINF:-1,ESTRELLA TV  TX
+http://extremo.dyndns.ws:25461/live/lety/lety/2595.ts
+#EXTINF:-1,HD TELEMUNDO TX
+http://extremo.dyndns.ws:25461/live/lety/lety/2596.ts
+#EXTINF:-1,HD UNIMAS TEXAS
+http://extremo.dyndns.ws:25461/live/lety/lety/2597.ts
+#EXTINF:-1,HD UNIVISION EAST
+http://extremo.dyndns.ws:25461/live/lety/lety/2599.ts
+#EXTINF:-1,SAL: CANAL 12
+http://extremo.dyndns.ws:25461/live/lety/lety/2602.ts
+#EXTINF:-1,SAL: CANAL 19
+http://extremo.dyndns.ws:25461/live/lety/lety/2601.ts
+#EXTINF:-1,SAL: CANAL 2
+http://extremo.dyndns.ws:25461/live/lety/lety/2605.ts
+#EXTINF:-1,SAL: CANAL 35
+http://extremo.dyndns.ws:25461/live/lety/lety/2600.ts
+#EXTINF:-1,SAL: CANAL 4
+http://extremo.dyndns.ws:25461/live/lety/lety/2604.ts
+#EXTINF:-1,ELSAL: CANAL 6
+http://extremo.dyndns.ws:25461/live/lety/lety/2603.ts
+#EXTINF:-1,ECUA: TC HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2611.ts
+#EXTINF:-1,ECUA: CANAL UNO HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2607.ts
+#EXTINF:-1,ECUA: ECUAVISA
+http://extremo.dyndns.ws:25461/live/lety/lety/2608.ts
+#EXTINF:-1,ECUA: GAMA TV HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2609.ts
+#EXTINF:-1,ECUA: TELEAMAZONAS HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2610.ts
+#EXTINF:-1,CDO
+http://extremo.dyndns.ws:25461/live/lety/lety/2615.ts
+#EXTINF:-1,CHILE: CNN
+http://extremo.dyndns.ws:25461/live/lety/lety/2616.ts
+#EXTINF:-1,CANAL 12
+http://extremo.dyndns.ws:25461/live/lety/lety/2622.ts
+#EXTINF:-1,MONTE CARLO TV
+http://extremo.dyndns.ws:25461/live/lety/lety/2621.ts
+#EXTINF:-1,SPACE HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2623.ts
+#EXTINF:-1,TSN 1 HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2637.ts
+#EXTINF:-1,TSN 2 HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2635.ts
+#EXTINF:-1,TSN 3 HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2633.ts
+#EXTINF:-1,TSN 4 HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2632.ts
+#EXTINF:-1,TSN 5 HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2630.ts
+#EXTINF:-1,ESPN  DEPORTES HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2834.ts
+#EXTINF:-1,EL SUPER CANAL
+http://extremo.dyndns.ws:25461/live/lety/lety/2836.ts
+#EXTINF:-1,TELEVISIETE
+http://extremo.dyndns.ws:25461/live/lety/lety/2838.ts
+#EXTINF:-1,HD ACTION MAX
+http://extremo.dyndns.ws:25461/live/lety/lety/2842.ts
+#EXTINF:-1,CINEMAX HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2843.ts
+#EXTINF:-1,HD MOVIE MAX
+http://extremo.dyndns.ws:25461/live/lety/lety/2844.ts
+#EXTINF:-1,HD HBO FAMILY
+http://extremo.dyndns.ws:25461/live/lety/lety/2841.ts
+#EXTINF:-1,HD HBO SIGNATURE
+http://extremo.dyndns.ws:25461/live/lety/lety/2840.ts
+#EXTINF:-1,HD HBO2
+http://extremo.dyndns.ws:25461/live/lety/lety/2839.ts
+#EXTINF:-1,HD SHOW TIME 2
+http://extremo.dyndns.ws:25461/live/lety/lety/2845.ts
+#EXTINF:-1,HD SHOWTIME BEYOND
+http://extremo.dyndns.ws:25461/live/lety/lety/2847.ts
+#EXTINF:-1,HD SHOWTIME EXTREAM
+http://extremo.dyndns.ws:25461/live/lety/lety/2846.ts
+#EXTINF:-1,HD SHOWTIME EAST
+http://extremo.dyndns.ws:25461/live/lety/lety/2848.ts
+#EXTINF:-1,HD STARZ
+http://extremo.dyndns.ws:25461/live/lety/lety/2835.ts
+#EXTINF:-1,HD STARZ CINEMA
+http://extremo.dyndns.ws:25461/live/lety/lety/2850.ts
+#EXTINF:-1,HD STARZ EDGE
+http://extremo.dyndns.ws:25461/live/lety/lety/2851.ts
+#EXTINF:-1,NEWS 12 Bronx
+http://extremo.dyndns.ws:25461/live/lety/lety/2861.ts
+#EXTINF:-1,NEWS 12 Brooklyn
+http://extremo.dyndns.ws:25461/live/lety/lety/2862.ts
+#EXTINF:-1,NEWS 12 Connecticut
+http://extremo.dyndns.ws:25461/live/lety/lety/2855.ts
+#EXTINF:-1,NEWS 12 Hundson Valley
+http://extremo.dyndns.ws:25461/live/lety/lety/2857.ts
+#EXTINF:-1,NEWS 12 Long Island
+http://extremo.dyndns.ws:25461/live/lety/lety/2860.ts
+#EXTINF:-1,NEWS 12 New Jersey
+http://extremo.dyndns.ws:25461/live/lety/lety/2858.ts
+#EXTINF:-1,News 12 Traffic & Wheather
+http://extremo.dyndns.ws:25461/live/lety/lety/2859.ts
+#EXTINF:-1,NEWS 12 Westchester
+http://extremo.dyndns.ws:25461/live/lety/lety/2856.ts
+#EXTINF:-1,FOX DEPORTES HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2784.ts
+#EXTINF:-1,FOX SPORT PREMIUM HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2628.ts
+#EXTINF:-1,ESPN (ENG) HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2592.ts
+#EXTINF:-1,ESPN + ( LATI ) HD
+http://extremo.dyndns.ws:25461/live/lety/lety/3003.ts
+#EXTINF:-1,UNIVISION DEPORTES HD*
+http://extremo.dyndns.ws:25461/live/lety/lety/2806.ts
+#EXTINF:-1,BEIN SPORT ( Ñ )
+http://extremo.dyndns.ws:25461/live/lety/lety/2776.ts
+#EXTINF:-1,TNT  SPORTS HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2627.ts
+#EXTINF:-1,FOOT NETWORK
+http://extremo.dyndns.ws:25461/live/lety/lety/3004.ts
+#EXTINF:-1,HGTV HD
+http://extremo.dyndns.ws:25461/live/lety/lety/3005.ts
+#EXTINF:-1,CBSSPORT HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2826.ts
+#EXTINF:-1,CNBCW HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2825.ts
+#EXTINF:-1,CNT HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2614.ts
+#EXTINF:-1,HD STRAZ EAST
+http://extremo.dyndns.ws:25461/live/lety/lety/2849.ts
+#EXTINF:-1,BABYTV HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2775.ts
+#EXTINF:-1,FIGHT NETWORK
+http://extremo.dyndns.ws:25461/live/lety/lety/2783.ts
+#EXTINF:-1,FXM LT
+http://extremo.dyndns.ws:25461/live/lety/lety/2790.ts
+#EXTINF:-1,FXX HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2791.ts
+#EXTINF:-1,H2 LT
+http://extremo.dyndns.ws:25461/live/lety/lety/2792.ts
+#EXTINF:-1,GOL TV HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2793.ts
+#EXTINF:-1,GOLTV ENG HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2795.ts
+#EXTINF:-1,HD: MSNBC
+http://extremo.dyndns.ws:25461/live/lety/lety/2797.ts
+#EXTINF:-1,HD: NATGEO
+http://extremo.dyndns.ws:25461/live/lety/lety/2828.ts
+#EXTINF:-1,NATGEO MUNDO HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2798.ts
+#EXTINF:-1,NBC SPORT NET HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2800.ts
+#EXTINF:-1,HD: NFL NET
+http://extremo.dyndns.ws:25461/live/lety/lety/2830.ts
+#EXTINF:-1,SONY HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2802.ts
+#EXTINF:-1,TYCSPORT HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2803.ts
+#EXTINF:-1,UNIMAS HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2804.ts
+#EXTINF:-1,GALAVISION HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2809.ts
+#EXTINF:-1,NBA HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2829.ts
+#EXTINF:-1,ATV HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2588.ts
+#EXTINF:-1,SYFY HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2823.ts
+#EXTINF:-1,YES NETWORK HD
+http://extremo.dyndns.ws:25461/live/lety/lety/2810.ts
+#EXTINF:-1,A&E (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3106.ts
+#EXTINF:-1,ADN 40 (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3105.ts
+#EXTINF:-1,AMC HD (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3104.ts
+#EXTINF:-1,ANIMAL PLANET (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3103.ts
+#EXTINF:-1,AXN (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3102.ts
+#EXTINF:-1,AYM SPORTS (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3101.ts
+#EXTINF:-1,AZ CORAZON (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3100.ts
+#EXTINF:-1,AZ MUNDO (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3099.ts
+#EXTINF:-1,AZ NOTICIAS (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3098.ts
+#EXTINF:-1,AZCINEMA (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3097.ts
+#EXTINF:-1,AZCLIC (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3096.ts
+#EXTINF:-1,AZTECA 13 (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3095.ts
+#EXTINF:-1,AZTECA 7 (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3094.ts
+#EXTINF:-1,BANDAMAX (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3093.ts
+#EXTINF:-1,BOOMERANG (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3092.ts
+#EXTINF:-1,CANAL 5 (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3091.ts
+#EXTINF:-1,CANAL11 (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3090.ts
+#EXTINF:-1,CARTOON NETWORK (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3089.ts
+#EXTINF:-1,CINECANAL (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3088.ts
+#EXTINF:-1,MAX UP HD LT
+http://extremo.dyndns.ws:25461/live/lety/lety/3087.ts
+#EXTINF:-1,CINEMAX (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3086.ts
+#EXTINF:-1,COMEDY CENTRAL (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3085.ts
+#EXTINF:-1,DE PELICULA (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3084.ts
+#EXTINF:-1,DISCOVERY CHANNEL (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3083.ts
+#EXTINF:-1,DISCOVERY CIVILIZATION (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3082.ts
+#EXTINF:-1,DISCOVERY H&H (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3081.ts
+#EXTINF:-1,DISCOVERY KIDS (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3080.ts
+#EXTINF:-1,DISCOVERY SCIENCE (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3079.ts
+#EXTINF:-1,DISCOVERY THEATER (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3078.ts
+#EXTINF:-1,DISCOVERY TLC (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3077.ts
+#EXTINF:-1,DISCOVERY TURBO (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3076.ts
+#EXTINF:-1,DISCOVERY WORLD (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3075.ts
+#EXTINF:-1,DISNEY CHANNEL (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3074.ts
+#EXTINF:-1,DISNEY JR (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3073.ts
+#EXTINF:-1,DISNEY XD (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3072.ts
+#EXTINF:-1,DISTRITO COMEDIA (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3071.ts
+#EXTINF:-1,E! (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3070.ts
+#EXTINF:-1,EL FINANCIERO BLOOMBERG (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3069.ts
+#EXTINF:-1,EL GOURMET (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3068.ts
+#EXTINF:-1,ESPN 2 (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3067.ts
+#EXTINF:-1,ESPN 3 (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3066.ts
+#EXTINF:-1,ESPN PLUS (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3065.ts
+#EXTINF:-1,F1 (tp)
+http://extremo.dyndns.ws:25461/live/lety/lety/3064.ts
+#EXTINF:-1,FILM ZONE (tp)
+http://extremo.dyndns.ws:25461
